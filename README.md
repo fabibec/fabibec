@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabi</h1>
 <h3 align="center">I'm currently studying computer engineering as a part of my integrated degree programme at BMW</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabibec&label=Profile%20views&color=0e75b6&style=flat" alt="fabibec" /> </p>
-
 - 🌱 I’m currently learning **C++**
 
 </p>
